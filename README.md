@@ -1,2 +1,2 @@
-## Deep Learning
-# KNOU
+# Deep Learning
+## KNOU
